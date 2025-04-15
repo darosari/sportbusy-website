@@ -1,6 +1,6 @@
 # SportBusy
 
-**Live Demo:** [sportbusy.live](https://sportbusy.live)
+**Live Demo:** [[sportbusy.live](https://sportbusy.live)](https://sportbusy.com/)
 
 ## Overview
 
@@ -20,7 +20,7 @@ This project has gained social media traction and consistent viewership, showcas
 - HTML  
 - CSS  
 - JavaScript  
-- Vercel (or other platform for deployment)
+- Vercel
 
 ## Future Plans
 
