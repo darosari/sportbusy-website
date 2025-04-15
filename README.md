@@ -1,6 +1,6 @@
 # SportBusy
 
-**Live Demo:** [[sportbusy.live](https://sportbusy.live)](https://sportbusy.com/)
+**Live Demo:** (https://sportbusy.com/)
 
 ## Overview
 
